@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=400&height=40&duration=4000&color=FA7343&lines=Hi+There!+%F0%9F%91%8B;+It's+Mohamed+Adel!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=400&height=50&duration=4000&color=FA7343&lines=Hi+There!+%F0%9F%91%8B;+It's+Mohamed+Adel!;" />
 </p>
 
 <div id="toc" align="center">
